@@ -2,10 +2,10 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Chandramauli</h1>
-<a href="https://twitter.com/santriptmehta">
+<a href="https://twitter.com/S_Chandramauli">
   <img align="left" alt="Santript Mehta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/santriptmehta/">
+<a href="https://www.linkedin.com/in/surajchandramauli/">
   <img align="left" alt="Santript's LinkedIN" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
          
 </a>
@@ -17,7 +17,7 @@
 
 <p align="center">
   <em>
-    Senior at CUSAT, Kochi Pursuing Bachelor's in CSE, a passionate self-taught programmer, tech enthusiast and I love to explore new technologies. Being a student,I always love to learn about new and fascinating technology. I also love to read novels, articles and to play Badminton. <br>
+   Software Development Engineer Intern at Hashed by Deloitte <br>
       <br>
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="440px"> <br>
    
@@ -62,6 +62,5 @@
 
 <hr>
 
-### Connect with [me](https://www.santriptmehta.xyz/) 👉👈😌
   
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=harshita214&repo=harshita214&countColorcountColor&countColor=%237B1E7B"/>
