@@ -5,14 +5,6 @@
 
 I am Suraj Chandramauli, a passionate Software Development Engineer based in Bangalore, India. My journey in the tech world is driven by a simple yet profound philosophy: "The Resilient Mind who is motivated by the fear of being average."
 
-## 📫 Connect with Me
-
-- 📍 Bangalore, India
-- 📞 +91 9304175664
-- 📧 [surajchandramauli@gmail.com](mailto:surajchandramauli@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/surajchandramauli/)
-- [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/SurajChandramauli)
-
 ## 🏢 Professional Experience
 
 ### Software Development Engineer I at HashedIn By Deloitte
@@ -68,3 +60,10 @@ Bachelor of Technology in Computer Science and Engineering
 ---
 
 Feel free to explore my repositories to see my work and contributions. Let's connect and create something amazing together!
+## 📫 Connect with Me
+
+- 📍 Bangalore, India
+- 📞 +91 9304175664
+- 📧 [surajchandramauli@gmail.com](mailto:surajchandramauli@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/surajchandramauli/)
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/SurajChandramauli)
