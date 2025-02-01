@@ -1,8 +1,6 @@
-# Suraj Chandramauli
+![Header](./your-header-image-name.png)
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile)
-
-## 👋 Hello, World!
+## 👋 Hello, Github World!
 
 I am Suraj Chandramauli, a passionate Software Development Engineer based in Bangalore, India. My journey in the tech world is driven by a simple yet profound philosophy: "The Resilient Mind who is motivated by the fear of being average."
 
