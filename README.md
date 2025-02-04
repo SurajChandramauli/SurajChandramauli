@@ -63,7 +63,6 @@ Feel free to explore my repositories to see my work and contributions. Let's con
 ## 📫 Connect with Me
 
 - 📍 Bangalore, India
-- 📞 +91 9304175664
 - 📧 [surajchandramauli@gmail.com](mailto:surajchandramauli@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/surajchandramauli/)
 - [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/SurajChandramauli)
